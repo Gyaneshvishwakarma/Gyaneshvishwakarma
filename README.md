@@ -1,6 +1,6 @@
 # Hi there, I'm Gyanesh Vishwakarma! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Your+Banner+Here)
+![Profile Banner](https://www.canva.com/design/DAGINW8F1hg/kMXiEBiXRXobzNiUqx8Oig/edit?utm_content=DAGINW8F1hg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## About Me
 
@@ -9,7 +9,7 @@ I'm a passionate full-stack developer and content creator with a strong focus on
 - 🌐 **Portfolio:** [YourPortfolioLinkHere](https://yourportfolio.com)
 - 💼 **Current Project:** Building a dynamic portfolio maker website with Next.js, Tailwind CSS, and Node.js.
 - 📝 **Blog:** [YourBlogLinkHere](https://yourblog.com)
-- 📫 **How to reach me:** [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📫 **How to reach me:** [Email](mailto:gyaneshvishwakarma917@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gyanesh-vishwakarma-01a159245/)
 
 ## Skills
 
@@ -43,4 +43,4 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 ---
 
-⭐️ From [Gyanesh Vishwakarma](https://github.com/YourUsername)
+⭐️ From [Gyanesh Vishwakarma](https://github.com/Gyaneshvishwakarma)
