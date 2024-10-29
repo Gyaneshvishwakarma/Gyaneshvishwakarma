@@ -6,7 +6,7 @@
 
 I'm a passionate full-stack developer and content creator with a strong focus on web development and design. I love working with modern web technologies and sharing knowledge through blogs and tutorials.
 
-- 🌐 **Portfolio:** [Gyaneshe](https://gyaneshvishwakarma.netlify.app/)
+- 🌐 **Portfolio:** [Gyanesh](https://gyaneshvishwakarma.netlify.app/)
 - 💼 **Current Project:** Building a dynamic portfolio maker website with Next.js, Tailwind CSS, and Node.js.
 - 📫 **How to reach me:** [Email](mailto:gyaneshvishwakarma917@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gyanesh-vishwakarma-01a159245/)
 
