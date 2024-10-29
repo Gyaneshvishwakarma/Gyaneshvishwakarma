@@ -21,13 +21,13 @@ I'm a passionate full-stack developer and content creator with a strong focus on
 
 ## Projects
 
-### 🌟 [Dynamic Portfolio Maker](https://github.com/YourUsername/dynamic-portfolio-maker)
-A full-stack web app that generates portfolios based on user input. Built with Next.js, Tailwind CSS, Node.js, and MySQL.
+### 🌟 [The Yogesh Vishwakarma Landing Website](https://the-yogesh-vishwakarma.vercel.app/)
+A ReactJS and Tailwind CSS landing page designed for a YouTuber, highlighting their services, portfolio, and essential details.
 
-### 🔥 [Sign-Up Page with Animated Background](https://github.com/YourUsername/animated-signup-page)
-A unique sign-up page featuring an animated background, designed with Next.js and Tailwind CSS.
+### 🔥 [Beauty Parlour Website](https://divyzone.in/)
+An user-friendly WordPress website crafted for a freelance beauty parlour. It showcases services, booking options, and client testimonials.
 
-### 📚 [Web Development Blog](https://github.com/YourUsername/web-dev-blog)
+### 📚 [Personal Portfolio](https://gyaneshvishwakarma.netlify.app/)
 A collection of blog posts focused on web development and design, covering a range of topics from JavaScript frameworks to responsive design.
 
 ## GitHub Stats
