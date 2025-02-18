@@ -32,9 +32,9 @@ A collection of blog posts focused on web development and design, covering a ran
 
 ## GitHub Stats
 
-![Gyanesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![Gyanesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gyaneshvishwakarma&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyaneshvishwakarma&layout=compact&theme=dark)
 
 ## Get in Touch
 
